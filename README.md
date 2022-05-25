@@ -10,7 +10,7 @@ grapheme to phoneme conversion using [1] [g2p-sequitur],  ,
 - [1][2] G2P: Grapheme to phoneme conversion using Sequitur G2P [here](https://github.com/Agrover112/sequitur-g2p)
 - [3]Vocab and lexicon generation (& validation) : Scripts for automatic lexicon generation present [here](https://github.com/Agrover112/kaldi/tree/current/egs/librispeech/s5)
 - Forced Alignment and GoP:  Forced alignment and Goodness of Pronounciation(probability score) generation using DNN,GMM/HMM Acoustic models as .ctm files and also into Textgrid format, for Praat [here](https://github.com/Agrover112/kaldi-dnn-ali-gop/tree/aligop)
-
+- Pipeline for Modified GoP score calculation: A pipeline for automatic calculation  Posteriors, Alignments and thus calculation of modified GoP scores
 
 
 # Blogs:
