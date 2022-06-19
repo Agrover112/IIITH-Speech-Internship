@@ -18,7 +18,9 @@ grapheme to phoneme conversion using [1] [g2p-sequitur],  ,
 - [Understanding Kaldi Part-1](https://medium.com/@agrover112/understanding-kaldi-part-1-c869980b1cbf)
 : I wrote a blog explaining the process of creating Librispeech dictionary.
 
-
+# Resources
+- [Kaldi Resources](https://github.com/Agrover112/Kaldi-resources)
+: Resources related to Kaldi.
 
 
 # Notes
