@@ -28,3 +28,5 @@ grapheme to phoneme conversion using [1] [g2p-sequitur],  ,
 [2] The Sequitur G2P probably would fail for everyone attempting to use Python2.7 [(fixed by a PR #90)](https://github.com/sequitur-g2p/sequitur-g2p/pull/90)
 
 [3] Documenting really helps especially if a rogue git pull suddenly is merged wierdly removing a commit that's worth 1 months work. Thx `git reflog`
+
+[4] The decoding graph is pretty important and consists of HoCoLoG components. 
